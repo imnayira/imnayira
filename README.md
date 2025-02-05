@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @imnayira
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on any interesting project
-- 📫 How to reach me >> nayira.mohammed2001@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Im trying to survive :)
+
 
 
 <!---
